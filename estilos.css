@@ -3,6 +3,11 @@
     padding: 0;
 }
 
+body{
+    position: absolute;
+    height: 90vh;
+}
+
 h1{
     color: rgb(29, 83, 83);
     background-color: rgb(185, 233, 158);
@@ -25,4 +30,16 @@ h1{
  img{
      object-fit: cover;
      width: 80px;
+ }
+
+
+
+
+ footer{
+     background-color: darkgreen;
+     height: 10vh;
+     display: flex;
+     position: absolute;
+     bottom: -10vh;
+     width: 100vw;
  }
