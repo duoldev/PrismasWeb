@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    position: absolute;
+    height: 90vh;
+}
+
+h1{
+    color: rgb(29, 83, 83);
+    background-color: rgb(185, 233, 158);
+    /* border: 1px solid red; */
+}
+
+.hero{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100vw;
+    height: 10vh;
+    background-color: cadetblue;
+    
+}
+
+.logo{
+    display: flex;
+}
+ img{
+     object-fit: cover;
+     width: 80px;
+ }
+
+
+
+
+ footer{
+     background-color: darkgreen;
+     height: 10vh;
+     display: flex;
+     position: absolute;
+     bottom: -10vh;
+     width: 100vw;
+ }
