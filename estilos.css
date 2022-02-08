@@ -42,4 +42,10 @@ h1{
      position: absolute;
      bottom: -10vh;
      width: 100vw;
+     justify-content: center;
+ }
+
+ footer .texto {
+    color: aqua;
+    font-size: 24px;
  }
