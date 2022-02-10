@@ -5,4 +5,4 @@ y los objetivos y metas que perseguimos
 # > HOLA este es mi primer **blog**
 2022-02-10 16:55:31 Thursday
 :bowtie:
-:girl: :boy:
+👧: 👦: 💘: 🔆
